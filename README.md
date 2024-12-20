@@ -1,2 +1,2 @@
 # raspberryPi-python-robotics
-Lessons on using rassperrypi+python
+Lessons on using rassperrypi+python+hiwonder
